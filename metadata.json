@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Particles 3D",
+  "description": "A touchless 3D particle system controlled by hand gestures. Shape-shift particles with fingers and paint colors with a fist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
